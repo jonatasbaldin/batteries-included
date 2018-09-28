@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# meh
+.DS_Store
+database.db
+shutil_archive.zip
