@@ -1,5 +1,6 @@
 # defines the mult method
 
+
 def mult(a, b):
     """
     Multiplies a and b.
